@@ -1,5 +1,9 @@
 # Packet Tracer - Konfigurasikan Pengaturan Switch Awal
 
+<p align="center" style="margin-bottom: 0px !important;">
+  <img width="200" src="1.png" alt="cisco" align="center">
+</p>
+
 ## Objektif
 ### Part 1: Verifikasi Konfigurasi Switch Default
 ### Part 2: Konfigurasikan Konfigurasi Switch Dasar
